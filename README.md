@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
- 👾 About Me: 
+# 👾 About Me: 
 😌 Software Developer<br>
 💼 Currently working on my portfolio<br>
 📥 Wanna connect or build together, Email or Linkedin :)
