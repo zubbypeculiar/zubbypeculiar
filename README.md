@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubby-peculiar-379809222) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### Languages
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)](https://github.com/zubbypeculiar) 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)](https://github.com/zubbypeculiar) 
@@ -47,13 +47,13 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/zubbypeculiar)
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/zubbypeculiar)<br/>
 ![[](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=false)](https://github.com/zubbypeculiar)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=2&color=3)](https://github.com/zubbypeculiar)
