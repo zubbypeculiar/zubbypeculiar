@@ -14,11 +14,11 @@
 ## 💻 Tech Stack:
 ### Languages
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar) 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar) 
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)  
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) 
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar)
 [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)](https://github.com/zubbypeculiar)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar)
 
@@ -44,9 +44,9 @@
 [![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)](https://github.com/zubbypeculiar)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/zubbypeculiar)
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)](https://github.com/zubbypeculiar)
 [![MacOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=macos&color=black)](https://github.com/zubbypeculiar) 
+[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/zubbypeculiar)
 
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/zubbypeculiar)<br/>
@@ -54,10 +54,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
 
 ### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiart)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zubby&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
 
  <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
