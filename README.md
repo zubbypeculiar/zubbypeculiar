@@ -26,7 +26,7 @@
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/zubbypeculiar) 
-[![Flask](https://img.shields.io/badge/flask-%23000.svgstyle=for-the-badge&logoo=flask&logoColor=white)](https://github.com/zubbypeculiar) 
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logoo=flask&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/zubbypeculiar) 
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/zubbypeculiar) 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/zubbypeculiar) 
