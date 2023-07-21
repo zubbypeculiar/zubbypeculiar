@@ -49,9 +49,9 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/zubbypeculiar)
 
 ## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/zubbypeculiar)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=dzubbypeculiar&theme=gotham&hide_border=false)](https://github.com/zubbypeculiar)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
+[![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/zubbypeculiar)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/zubbypeculiar)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
 
 ### ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
