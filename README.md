@@ -48,9 +48,9 @@
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
 
 ## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=dukeofhazardz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/zubbypeculiar)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=dukeofhazardz&theme=dark&hide_border=false)](https://github.com/zubbypeculiar)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dukeofhazardz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
+[![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/zubbypeculiar)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=dzubbypeculiar&theme=dark&hide_border=false)](https://github.com/zubbypeculiar)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/zubbypeculiar)
 
 ### ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/zubbypeculiart)
