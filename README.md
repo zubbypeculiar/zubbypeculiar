@@ -55,8 +55,8 @@
 ### ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/zubbypeculiart)
 
- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> 
+ <!-- ### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=2&color=3)](https://github.com/zubbypeculiar)
