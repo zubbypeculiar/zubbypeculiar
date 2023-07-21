@@ -44,9 +44,9 @@
 [![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)](https://github.com/zubbypeculiar)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)](https://github.com/zubbypeculiar)
-[![MacOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=macos&color=black)](https://github.com/zubbypeculiar) 
-[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/zubbypeculiar)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/zubbypeculiar)
+[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)
 
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/zubbypeculiar)<br/>
