@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/zubbypeculiar/zubbypeculiar/issues)
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubby-peculiar-379809222) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
@@ -23,7 +23,7 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/zubbypeculiar)<br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/zubbypeculiar)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/zubbypeculiar) 
@@ -33,10 +33,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=gotham" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=gotham" />
 </a>
 
 <br />
