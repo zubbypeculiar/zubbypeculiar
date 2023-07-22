@@ -22,13 +22,14 @@
 [![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
 [![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar)
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
 
 <!-- ### Frameworks, Platforms & Libraries -->
-<!--[![Angular](https://img.shields.io/badge/-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://github.com/zubbypeculiar) -->
-[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar)
+<!--[![Angular](https://img.shields.io/badge/-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://github.com/zubbypeculiar) 
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar) -->
 <!-- [![Django](https://img.shields.io/badge/-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/zubbypeculiar)
 [![Flutter](https://img.shields.io/badge/-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/zubbypeculiar)
 [![jQuery](https://img.shields.io/badge/-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/zubbypeculiar)
