@@ -67,7 +67,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zubbypeculiar&repo=anuraghazra.github.io&theme=gotham" />
 </a> -->
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
 
  <!-- ### 😂 Random Dev Meme
