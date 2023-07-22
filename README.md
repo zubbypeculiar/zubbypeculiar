@@ -1,4 +1,4 @@
-##
+---
 ### About me:
 
 👾 Software Developer 
@@ -9,13 +9,13 @@
 
 💬 Ask me about anything [here](https://github.com/zubbypeculiar/zubbypeculiar/issues)
 
---- 
+## 
  ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubby-peculiar-379809222) 
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
 
---- 
+## 
 ### 💻 Tech Stacks:
 <!-- ### Languages -->
 [![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
@@ -53,7 +53,7 @@
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  -->
 
---- 
+## 
 ### 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/zubbypeculiar) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/zubbypeculiar) 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/zubbypeculiar)<br/>
@@ -68,7 +68,7 @@
 <a href="https://github.com/anuraghazra/zubbypeculiar.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zubbypeculiar&repo=anuraghazra.github.io&theme=gotham" />
 </a> -->
---- 
+## 
 ### ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
 
