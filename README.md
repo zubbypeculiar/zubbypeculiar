@@ -1,5 +1,4 @@
 ## About me:
-##
 
 👾 Software Developer 
 
@@ -9,7 +8,8 @@
 
 💬 Ask me about anything [here](https://github.com/zubbypeculiar/zubbypeculiar/issues)
 
-## 🌐 Socials:
+### 🌐 Socials:
+##
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubby-peculiar-379809222) 
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
