@@ -14,40 +14,41 @@
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
 
 
-## 💻 Tech Stack:
-### Languages
+### 💻 Tech Stack:
+<!-- ### Languages -->
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
-[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar)
+<!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
+<!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
 
-### Frameworks, Platforms & Libraries
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://github.com/zubbypeculiar)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/zubbypeculiar)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/zubbypeculiar)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/zubbypeculiar)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://github.com/zubbypeculiar)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](https://github.com/zubbypeculiar)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/zubbypeculiar)
-[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)](https://github.com/zubbypeculiar)
-[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/zubbypeculiar)
+<!-- ### Frameworks, Platforms & Libraries -->
+<!--[![Angular](https://img.shields.io/badge/-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://github.com/zubbypeculiar) -->
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar)
+<!-- [![Django](https://img.shields.io/badge/-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/zubbypeculiar)
+[![Flutter](https://img.shields.io/badge/-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/zubbypeculiar)
+[![jQuery](https://img.shields.io/badge/-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/zubbypeculiar)
+[![NodeJS](https://img.shields.io/badge/-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://github.com/zubbypeculiar)
+[![NPM](https://img.shields.io/badge/-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](https://github.com/zubbypeculiar)
+[![React](https://img.shields.io/badge/-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)](https://github.com/zubbypeculiar)
+[![SASS](https://img.shields.io/badge/-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)](https://github.com/zubbypeculiar)
+[![Vue.js](https://img.shields.io/badge/-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/zubbypeculiar) -->
 
-### Design
+<!-- ### Design
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://github.com/zubbypeculiar)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/zubbypeculiar)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)](https://github.com/zubbypeculiar) 
-[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)](https://github.com/zubbypeculiar)
+[![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)](https://github.com/zubbypeculiar) -->
 
-### OS
+<!-- ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/zubbypeculiar)
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  -->
 
 
 ### 📊 GitHub Stats:
@@ -55,7 +56,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/zubbypeculiar)<br/>
 
 
-### Top Repositories
+<!-- ### Top Repositories
 
 
 <a href="https://github.com/zubbypeculiar/github-readme-stats">
@@ -63,7 +64,7 @@
 </a>
 <a href="https://github.com/anuraghazra/zubbypeculiar.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zubbypeculiar&repo=anuraghazra.github.io&theme=gotham" />
-</a>
+</a> -->
 
 ### ✍️ Random Dev Quote
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
