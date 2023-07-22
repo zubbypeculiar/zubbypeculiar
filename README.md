@@ -16,12 +16,12 @@
 
 ### 💻 Tech Stack:
 <!-- ### Languages -->
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
+[![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
+[![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
+[![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
+[![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
+[![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
+[![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
