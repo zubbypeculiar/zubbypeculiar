@@ -13,7 +13,7 @@
 
 ## 💻 Tech Stack:
 ### Languages
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
@@ -27,7 +27,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/zubbypeculiar) 
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logoo=flask&logoColor=white)](https://github.com/zubbypeculiar) 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)](https://github.com/zubbypeculiar) 
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=black)](https://github.com/zubbypeculiar) 
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/zubbypeculiar) 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](https://github.com/zubbypeculiar) 
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](https://github.com/zubbypeculiar) 
