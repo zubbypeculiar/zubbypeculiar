@@ -6,24 +6,24 @@
 
 📥 Wanna connect or build together, Shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
 
-💬 Ask me about anything [here](https://github.com/zubbypeculiar/zubbypeculiar/issues)
+💬 Ask me about anything [here](https://github.com/x33zp/x33zp/issues)
 
 ## 
  ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
-[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubby-peculiar-379809222) 
-[![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_web) 
+[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
+[![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev)
 
 ## 
 ### 💻 Tech Stacks:
 <!-- ### Languages -->
-[![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/zubbypeculiar)
-[![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/zubbypeculiar)
-[![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/zubbypeculiar)
-[![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
-[![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/zubbypeculiar)
-[![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/zubbypeculiar)
-[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/zubbypeculiar)
+[![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
+[![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/x33zp)
+[![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
+[![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/x33zp)
+[![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/x33zp)
+[![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/x33zp)
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp)
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
@@ -54,8 +54,8 @@
 
 ## 
 ### 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/zubbypeculiar) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/zubbypeculiar) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/zubbypeculiar)<br/>
+[![](https://github-readme-stats.vercel.app/api?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)](https://github.com/x33zp) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubbypeculiar&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/x33zp) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=zubbypeculiar&theme=gotham&hide_border=true)](https://github.com/x33zp)<br/>
 
 
 <!-- ### Top Repositories
@@ -69,12 +69,12 @@
 </a> -->
 ## 
 ### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/zubbypeculiar)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/x33zp)
 
  <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 --- 
-[![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=5&color=3)](https://github.com/zubbypeculiar)
+[![](https://visitcount.itsvg.in/api?id=zubbypeculiar&icon=5&color=3)](https://github.com/x33zp)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
