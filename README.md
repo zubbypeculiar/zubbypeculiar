@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/x33zp)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=x33zp&theme=dark&hide_border=false)](https://github.com/x33zp) <br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp)
+<div align="center"> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp) </div>
 
 
 <!-- ### Top Repositories
