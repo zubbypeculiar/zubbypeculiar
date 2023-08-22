@@ -17,18 +17,18 @@
 ## 
 ### 💻 Tech Stacks:
 <!-- ### Languages -->
-[![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
+<!-- [![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/x33zp)
 [![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
 [![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/x33zp)
 [![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/x33zp)
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/x33zp)
-[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp)
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp) -->
 
  <h1 align="left">⚡ Languages and Tools:</h1>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,nextjs,nodejs,firebase,express,prisma,mongodb,planetscale,jest,postman,git,github,vercel,vscode,powershell,figma,vite" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,powershell,figma" />
   </a>
 </p>
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
