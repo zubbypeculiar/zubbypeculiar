@@ -7,13 +7,13 @@
 - 📥 Wanna connect or build together, Shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
 
 - 💬 Ask me about anything [here](https://github.com/x33zp/x33zp/issues)
-  <br/>
 
 <!-- ## 
  ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
+<br/>
 <h2 align="left">🌐 Connect with me</h2>
 <p align="left">
 <a href="https://linkedin.com/in/x33zp" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
