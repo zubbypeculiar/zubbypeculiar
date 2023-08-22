@@ -24,6 +24,13 @@
 [![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/x33zp)
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/x33zp)
 [![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp)
+
+ <h1 align="left">⚡ Languages and Tools:</h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,js,ts,react,nextjs,nodejs,firebase,express,prisma,mongodb,planetscale,jest,postman,git,github,vercel,vscode,powershell,figma,vite" />
+  </a>
+</p>
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
