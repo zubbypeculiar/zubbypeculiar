@@ -20,6 +20,7 @@
  <a href="https://instagram.com/x33zp.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://twitter.com/x33zp_dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
 </p>
+
 <br/>
 <!-- ## 
 ### 💻 Tech Stacks: -->
@@ -32,12 +33,14 @@
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/x33zp)
 [![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp) -->
 
- <h2 align="left">💻 Languages and Tools:</h2>
+ <h2 align="left">💻 Languages and Tools</h2>
 <p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,powershell,figma" />
   </a>
 </p>
+
+<br/>
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
