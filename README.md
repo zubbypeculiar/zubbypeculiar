@@ -1,6 +1,6 @@
 ## About me:
 
-- 👾 Software Developer 
+- 👾 Full-Stack Developer 
 
 - 💼 Currently working on my portfolio
 
