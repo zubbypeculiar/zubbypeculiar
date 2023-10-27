@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/x33zp/x33zp/issues)
 
-<!-- ## 
+<!-- ##
  ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
