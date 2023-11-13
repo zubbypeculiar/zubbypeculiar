@@ -4,9 +4,9 @@
 
 - 💼 Currently working on my portfolio
 
-- 📥 Wanna connect or build together, Shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
+- 📥 Wanna connect or build together, shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
 
-- 💬 Ask me about anything [here](https://github.com/x33zp/x33zp/issues)
+- 💬 Ask me about anything [Here](https://github.com/x33zp/x33zp/issues)
 
 <!-- ##
  ### 🌐 Socials:
