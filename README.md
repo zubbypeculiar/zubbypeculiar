@@ -36,7 +36,7 @@
  <h2 align="left">💻 Languages and Tools</h2>
 <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,nodejs,git,github,vscode,powershell,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,nodejs,python,git,github,vscode,powershell,figma,firebase" />
   </a>
 </p>
 
