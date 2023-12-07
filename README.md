@@ -71,11 +71,12 @@
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  -->
 
+<p text-align="center">
 ## GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/x33zp)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=x33zp&theme=dark&hide_border=false)](https://github.com/x33zp)
-
+</p>
 
 <!-- ### Top Repositories
 
