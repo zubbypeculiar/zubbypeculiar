@@ -58,7 +58,7 @@
 [![Vue.js](https://img.shields.io/badge/-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/zubbypeculiar) -->
 
 ## Design
-[![Figma](https://img.shields.io/badge/figma-%1B1C30.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
+[![Figma](https://img.shields.io/badge/figma-1B1C30.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
 <!--
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://github.com/zubbypeculiar)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/zubbypeculiar)
