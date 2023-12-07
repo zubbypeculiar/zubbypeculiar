@@ -1,4 +1,4 @@
-## About me:
+## About me :
 
 😵‍💫 Software Engineer | Frontend | Backend
 
@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x33zp.web?igshid=OGQ5ZDc2ODk2ZA==) 
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
-## Tech Stack:
+## Tech Stack :
 ### Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
@@ -71,7 +71,7 @@
 [![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos&color=black)](https://github.com/zubbypeculiar) 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/zubbypeculiar)  -->
 
-## GitHub Stats:
+## GitHub Stats :
 [![](https://github-readme-stats.vercel.app/api?username=x33zp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/x33zp) <br />
 [![](https://github-readme-streak-stats.herokuapp.com/?user=x33zp&theme=gotham&hide_border=false)](https://github.com/x33zp) <br />
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp)
@@ -86,7 +86,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zubbypeculiar&repo=anuraghazra.github.io&theme=gotham" />
 </a> -->
 ## 
-### ✍️ Random Dev Quote:
+### ✍️ Random Dev Quote :
 [![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/x33zp)
 
  <!-- ### 😂 Random Dev Meme
