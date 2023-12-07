@@ -15,8 +15,7 @@
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
 
 <br/>
-<!-- ##
-### 💻 Tech Stacks: -->
+## 💻 Languages and Tools: -->
 <!-- ### Languages -->
 <!-- [![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/x33zp)
@@ -24,16 +23,16 @@
 [![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/x33zp)
 [![PHP](https://img.shields.io/badge/-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/x33zp)
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://github.com/x33zp)
-[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp) -->
+[![Bootstrap](https://img.shields.io/badge/-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/x33zp) 
 
- <h2 align="left">💻 Languages and Tools</h2>
+ <!-- <h2 align="left">💻 Languages and Tools</h2>
 <p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,nodejs,python,git,vscode,powershell,figma,firebase" />
   </a>
-</p>
+</p> -->
 
-<br/>
+<!--<br/> -->
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar) -->
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 
