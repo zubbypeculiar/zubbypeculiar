@@ -14,8 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
 
-##
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/x33zp)
 [![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/zubbypeculiar)
