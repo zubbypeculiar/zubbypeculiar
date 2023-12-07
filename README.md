@@ -15,9 +15,8 @@
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
 
 <br/>
-## 💻 Languages and Tools: -->
-<!-- ### Languages -->
-<!-- [![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
+### 💻 Languages and Tools:
+[![HTML5](https://img.shields.io/badge/-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/x33zp)
 [![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
 [![Figma](https://img.shields.io/badge/-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://github.com/x33zp)
