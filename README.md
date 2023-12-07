@@ -31,7 +31,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/x33zp) 
 
 ### Databases
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)](https://github.com/zubbypeculiar)
+[![Firebase](https://img.shields.io/badge/Firebase-1B3A57.svg?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://github.com/zubbypeculiar)
 
  <!-- <h2 align="left">💻 Languages and Tools</h2>
 <p>
