@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/x33zp)
 [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/x33zp_dev) -->
 ## Tech Stack:
-## Languages and Tools
+### Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/x33zp)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/x33zp)
@@ -24,13 +24,13 @@
 <!-- [![GIT](https://img.shields.io/badge/git-%3E2C00.svg?style=for-the-badge&logo=GIT&logoColor=white)](https://github.com/zubbypeculiar) -->
 <!-- [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/x33zp) -->
 
-## Technologies and Frameworks
+### Technologies and Frameworks
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/x33zp)
 [![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/zubbypeculiar)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/x33zp) 
 
-## Databases
+### Databases
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white)](https://github.com/zubbypeculiar)
 
  <!-- <h2 align="left">💻 Languages and Tools</h2>
