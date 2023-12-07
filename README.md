@@ -31,7 +31,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/x33zp) 
 
 ### Databases
-[![Firebase](https://img.shields.io/badge/Firebase-1B3A57.svg?style=for-the-badge&logo=Firebase&logoColor=#F24E1E)](https://github.com/zubbypeculiar)
+[![Firebase](https://img.shields.io/badge/Firebase-1B3A57.svg?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://github.com/zubbypeculiar)
 
  <!-- <h2 align="left">💻 Languages and Tools</h2>
 <p>
@@ -58,7 +58,7 @@
 [![Vue.js](https://img.shields.io/badge/-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/zubbypeculiar) -->
 
 ## Design
-[![Figma](https://img.shields.io/badge/figma-1B1C30.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/zubbypeculiar)
+[![Figma](https://img.shields.io/badge/figma-1B1C30.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)](https://github.com/zubbypeculiar)
 <!--
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)](https://github.com/zubbypeculiar)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/zubbypeculiar)
