@@ -1,12 +1,12 @@
 ## About me:
 
-- 😵‍💫 Software Engineer | Frontend | Backend
+😵‍💫 Software Engineer | Frontend | Backend
 
-- 💼 Currently working on my portfolio
+💼 Currently working on my portfolio
 
-- 📥 Wanna connect or build together, shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
+📥 Wanna connect or build together, shoot me an [Email](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCfczRMbNgwxsFNjSsDrDLnVxTNpvHhvKDBwZWDSBSLLkhvCTRHhTKGCzlXVNTJhPtSVHB) :)
 
-- 💬 Ask me about anything [Here](https://github.com/x33zp/x33zp/issues)
+💬 Ask me about anything [Here](https://github.com/x33zp/x33zp/issues)
 
 <!-- ##
  ### 🌐 Socials:
@@ -73,8 +73,8 @@
 
 ## GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/x33zp)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=x33zp&theme=dark&hide_border=false)](https://github.com/x33zp)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=x33zp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/x33zp) 
 
 
 <!-- ### Top Repositories
