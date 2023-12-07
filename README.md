@@ -25,7 +25,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/zubbypeculiar)
 <!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
 [![GIT](https://img.shields.io/badge/git-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)](https://github.com/zubbypeculiar)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/x33zp)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/zubbypeculiar) 
 
  <!-- <h2 align="left">💻 Languages and Tools</h2>
 <p>
