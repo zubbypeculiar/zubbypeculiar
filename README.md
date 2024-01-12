@@ -28,8 +28,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/x33zp)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/x33zp)
 [![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/x33zp)
+[![Node.JS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js&logoColor=green)](https://github.com/zubbypeculiar)
 <!-- [![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/x33zp) -->
-[![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/zubbypeculiar)
 
 ### Databases
 [![Firebase](https://img.shields.io/badge/Firebase-1B3A57.svg?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://github.com/x33zp)
