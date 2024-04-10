@@ -21,7 +21,7 @@
 [![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/x33zp)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/x33zp)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/x33zp)
-<!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar) -->
+<!-- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://github.com/zubbypeculiar)-->
 <!-- [![GIT](https://img.shields.io/badge/git-%3E2C00.svg?style=for-the-badge&logo=GIT&logoColor=white)](https://github.com/zubbypeculiar) -->
 <!-- [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com/x33zp) -->
 
